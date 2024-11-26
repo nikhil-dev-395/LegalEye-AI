@@ -1,0 +1,4 @@
+server of legalEye-ai
+
+[+] deploy project on vercel
+[+] first make plan for 
